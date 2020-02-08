@@ -1,0 +1,76 @@
+html{
+    font-family: 'Karla', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.joc{
+    height: 50vh;
+    background-color:snow;
+}
+.ms{
+    width: 50%;
+    height: 50vh;
+    background-color: hsl(179, 62%, 43%);
+    float: left
+    ;
+
+}
+.why-us {
+    /* margin: 10px; */
+    width: 50%;
+    height: 50vh;
+    background-color: rgba(27, 183, 189, 0.616);
+    float: left;
+    
+}
+.jcol{
+    padding: 40px;
+    color:hsl(179, 62%, 43%);
+}
+.h2{
+    padding:20px;
+    color: hsla(71, 73%, 54%, 0.856);
+    margin-left:25px;
+}
+.p{
+    padding:20px;
+    color: darkgrey;
+    margin-left: 25px;
+}
+.msub{
+    padding: 40px;
+    color: hsla(203, 44%, 93%, 0.849);
+
+}
+.pm{
+    color: hsla(203, 44%, 93%, 0.849);
+    font-size: 2rem;
+    margin-left:27px;
+
+}
+.p2{
+   color:  hsla(203, 44%, 93%, 0.849);
+   margin-left:27px ; 
+}
+.but{
+    margin: 60px;
+    width: 50%;
+    background: hsl(71, 73%, 54%);
+    color:#fff;
+    height: 55px;
+    font-size: 30px;
+}
+.wu{
+    color:hsla(203, 44%, 93%, 0.822);
+    margin-left: 30px;
+}
+.wus{
+    padding: 40px;
+    color:hsla(203, 44%, 93%, 0.822);
+}
+.permonth{
+    color: hsla(203, 44%, 93%, 0.849);
+
+}
